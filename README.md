@@ -29,7 +29,7 @@ El resultado es la lista de todas las cuentas de servicio en el proyecto:
 
 ### Referencias
 
-Service Accounts [Como listar cuentas de servicio](https://cloud.google.com/iam/docs/creating-managing-service-accounts?hl=es-419#iam-service-accounts-disable-gcloud).
+Service Accounts [Como listar cuentas de servicio](https://cloud.google.com/iam/docs/creating-managing-service-accounts?hl=es-419#listing).
 
 
 

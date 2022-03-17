@@ -30,8 +30,6 @@ donde
 
 *IMAGE_PROJECT*: El proyecto que tiene la imagen.
 
-<span style="color: green"> Some green text </span>
-
 - **Ennumera las VM**
 
 

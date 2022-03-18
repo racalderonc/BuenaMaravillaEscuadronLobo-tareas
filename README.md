@@ -1,4 +1,4 @@
-# Comandos gcloud
+# COMANDOS DE GCLOUD
 
 ## Listar Compute Engine
 
@@ -27,7 +27,7 @@ El resultado es la lista de todas las cuentas de servicio en el proyecto:
 ![Service Account](/service_account.jpg)
 
 
-### Referencias
+### **Referencias**
 
 Service Accounts [Como listar cuentas de servicio](https://cloud.google.com/iam/docs/creating-managing-service-accounts?hl=es-419#listing).
 

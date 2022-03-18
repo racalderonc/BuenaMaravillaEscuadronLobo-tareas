@@ -1,6 +1,16 @@
 # COMANDOS DE GCLOUD
 
 ## Listar Compute Engine
+<br>
+
+To list all instances in a project in table form, run:
+```
+gcloud compute instances list
+```
+To list the URIs of all instances in a project, run:
+```
+gcloud compute instances list --uri
+```
 
 ## Listar IP's en uso, existentes o reservadas
 

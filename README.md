@@ -7,6 +7,9 @@ To list all instances in a project in table form, run:
 ```
 gcloud compute instances list
 ```
+<img src="images/list-compute-engine.png" width="500">
+<br></br>
+
 To list the URIs of all instances in a project, run:
 ```
 gcloud compute instances list --uri

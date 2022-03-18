@@ -7,13 +7,13 @@ To list all instances in a project in table form, run:
 ```
 gcloud compute instances list
 ```
-<img src="images/list-compute-engine.png" width="900">
-<br></br>
+<img src="images/list-compute-engine.png" align="center" width="900">
 
 To list the URIs of all instances in a project, run:
 ```
 gcloud compute instances list --uri
 ```
+<img src="images/list-compute-engine-uri.png" align="center" width="900">
 
 ## Listar IP's en uso, existentes o reservadas
 

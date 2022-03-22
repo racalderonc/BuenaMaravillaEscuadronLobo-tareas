@@ -37,7 +37,7 @@ El resultado es la lista de todas las cuentas de servicio en el proyecto:
 
 **Ejemplo**
 
-![Service Account](/service_account.jpg)
+![Service Account](/images/service_account.jpg)
 
 
 

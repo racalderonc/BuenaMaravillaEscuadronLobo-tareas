@@ -40,7 +40,9 @@ El resultado es la lista de todas las cuentas de servicio en el proyecto:
 
 ![Service Account](/Tarea3/images/service_account.jpg)
 
-<img align="center" src="images/service_account.jpg">
+<center>
+<img src="images/service_account.jpg">
+</center>
 
 
 * ### **REFERENCIAS**

@@ -16,6 +16,10 @@ gcloud compute instances list --uri
 <img src="images/list-compute-engine-uri.png" align="center" width="900">
 
 * ## Listar IP's en uso, existentes o reservadas
+To list all IP's in use, existing or reserved, run:
+```
+gcloud compute addresses list
+```
 
 * ## Listar Buckets disponibles
 <br>

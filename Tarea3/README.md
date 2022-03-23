@@ -2,8 +2,9 @@
 
 * ## ABRIR Google Cloud CLI
 En primer lugar sera importante saber como abrir la terminal de google cloud para poder trabajar con los difentes comandos que mostraremos a continuación.
-
-<img src="images/1.gif" align="center" width="900">
+<p align="center">
+<img src="images/1.gif">
+</p>
 
 * ## Listar Compute Engine
 <br>
@@ -12,7 +13,7 @@ To list all instances in a project in table form, run:
 ```
 gcloud compute instances list
 ```
-<img src="images/2.gif" align="center" width="900">
+<img src="images/2.gif" align="center">
 
 To list the URIs of all instances in a project, run:
 ```

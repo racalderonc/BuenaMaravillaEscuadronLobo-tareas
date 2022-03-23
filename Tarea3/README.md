@@ -16,6 +16,17 @@ gcloud compute instances list --uri
 <img src="images/list-compute-engine-uri.png" align="center" width="900">
 
 * ## Listar IP's en uso, existentes o reservadas
+<br>
+
+Lista de direcciones de cálculo de gcloud - lista de direcciones.
+```
+gcloud compute addresses list   
+```
+Enumera la información resumida de las direcciones en un proyecto. La --uriopción se puede utilizar para mostrar URI en su lugar. Los usuarios que deseen ver más datos deben utilizar gcloud compute addresses describe.
+De forma predeterminada, se enumeran las direcciones globales y las direcciones de todas las regiones. Los resultados se pueden acotar proporcionando el indicador --regionso .--global
+
+**Ejemplo**
+<img src="images/IPsGCP.PNG" align="center" width="900">
 
 * ## Listar Buckets disponibles
 <br>

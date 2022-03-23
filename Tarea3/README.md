@@ -1,5 +1,10 @@
 # COMANDOS DE GCLOUD
 
+* ## ABRIR Google Cloud CLI
+En primer lugar sera importante saber como abrir la terminal de google cloud para poder trabajar con los difentes comandos que mostraremos a continuación.
+
+<img src="images/1.GIF" align="center" width="900">
+
 * ## Listar Compute Engine
 <br>
 
@@ -7,13 +12,13 @@ To list all instances in a project in table form, run:
 ```
 gcloud compute instances list
 ```
-<img src="images/list-compute-engine.png" align="center" width="900">
+<img src="images/2.GIF" align="center" width="900">
 
 To list the URIs of all instances in a project, run:
 ```
 gcloud compute instances list --uri
 ```
-<img src="images/list-compute-engine-uri.png" align="center" width="900">
+<img src="images/3.GIF" align="center" width="900">
 
 * ## Listar IP's en uso, existentes o reservadas
 <<<<<<< HEAD
@@ -33,7 +38,7 @@ De forma predeterminada, se enumeran las direcciones globales y las direcciones 
 
 **Ejemplo**
 
-<img src="images/IPsGCP.PNG" align="center" width="900">
+<img src="images/addresses.GIF" align="center" width="900">
 >>>>>>> 5d1a29ca315f4e1d37d16edbe5d45ecec5fc1bff
 
 Para enumerar los URI de todas las direcciones en un proyecto, ejecute:
@@ -60,7 +65,7 @@ gcloud compute shared-vpc associated-projects list host-project
 ```
 **Ejemplo**
 
-<img src="images/vpc2.PNG" align="center" width="900">
+<img src="images/shared.GIF" align="center" width="900">
 
 * ## Listar Buckets disponibles
 <br>
@@ -71,7 +76,7 @@ gsutil ls
 ```
 **Ejemplo**
 
-<img src="images/BucketGCP.PNG" align="center" width="900">
+<img src="images/gsutil.GIF" align="center" width="900">
 
 * ## Listar Service Accounts existentes en un proyecto
 
@@ -81,6 +86,8 @@ Comando:
 
         gcloud iam service-accounts list 
 
+
+<img src="images/serviceaccounts.GIF" align="center" width="900">
 
 El resultado es la lista de todas las cuentas de servicio en el proyecto:
 

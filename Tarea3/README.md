@@ -1,17 +1,29 @@
-# COMANDOS DE GCLOUD
+
+<img src="images/googlecloud.svg" align="center" >
+<h1 align="center">☁☁COMANDOS GCP CLI☁☁</h1></font>
+
+
+<p>
+Antes de saber exactamente qué es Google Cloud Platform, es importante comprender el concepto de computación en la nube.
+
+En pocas palabras, podemos definir la computación en la nube como la posibilidad de almacenar datos de forma remota, es decir, en la nube.
+</p>
+
+<img src="images/googlecloud.png" align="left" 
+        alt="Rey de Ajedrez" width="120" height="178">
+
+<p>
+Esta evolución tecnológica permite que diferentes sectores compartan información sin necesidad de software o sistema de almacenamiento de datos.
+
+La comunicación también se beneficia de la informática. Con esta tecnología, la empresa también es capaz de facilitar la comunicación vertical y horizontal, reduciendo errores en la interpretación de datos y agilizando la toma de decisiones. Además, por supuesto, de generar más independencia para los empleados que trabajan de forma remota.
+</p>
+
 
 * ## ABRIR Google Cloud CLI
 En primer lugar sera importante saber como abrir la terminal de google cloud para poder trabajar con los difentes comandos que mostraremos a continuación.
 
-<p align="cente">
-<img src="images/abrirCLI.gif" width="700">
-</p>
-
-
-* ## COLOCARSE EN EL PROYECTO CORRESPONDIENTE
-En primer lugar sera importante saber como abrir la terminal de google cloud para poder trabajar con los difentes comandos que mostraremos a continuación.
-<p align="cente">
-<img src="images/abrirCLI.gif" width="700">
+<p align="center">
+  <img src="images/abrirCLI.gif" style="border-radius:20%" width="540">
 </p>
 
 * ## Listar Compute Engine
@@ -21,13 +33,22 @@ To list all instances in a project in table form, run:
 ```
 gcloud compute instances list
 ```
-<img src="images/2.gif" align="center">
+<img src="images/list-compute-engine.png" align="center" width="900">
+
+<p align="center">
+  <img src="images/Instances.gif" style="border-radius:20%" width="540">
+</p>
+
 
 To list the URIs of all instances in a project, run:
 ```
 gcloud compute instances list --uri
 ```
-<img src="images/3.gif" align="center" width="900">
+<img src="images/list-compute-engine-uri.png" align="center" width="900">
+
+<p align="center">
+  <img src="images/instances-uri.gif" style="border-radius:20%" width="540">
+</p>
 
 * ## Listar IP's en uso, existentes o reservadas
 <<<<<<< HEAD
@@ -47,9 +68,8 @@ De forma predeterminada, se enumeran las direcciones globales y las direcciones 
 
 **Ejemplo**
 
-<img src="images/addresses.gif" align="center" width="900">
+<img src="images/IPsGCP.PNG" align="center" width="900">
 >>>>>>> 5d1a29ca315f4e1d37d16edbe5d45ecec5fc1bff
-
 Para enumerar los URI de todas las direcciones en un proyecto, ejecute:
 ```
 gcloud compute addresses list --uri
@@ -74,7 +94,11 @@ gcloud compute shared-vpc associated-projects list host-project
 ```
 **Ejemplo**
 
-<img src="images/shared.gif" align="center" width="900">
+<img src="images/vpc2.PNG" align="center" width="900">
+
+<p align="center">
+  <img src="images/shared.gif" style="border-radius:20%" width="540">
+</p>
 
 * ## Listar Buckets disponibles
 <br>
@@ -85,7 +109,11 @@ gsutil ls
 ```
 **Ejemplo**
 
-<img src="images/gsutil.gif" align="center" width="900">
+<img src="images/BucketGCP.PNG" align="center" width="900">
+
+<p align="center">
+  <img src="images/gsutil.gif" style="border-radius:20%" width="540">
+</p>
 
 * ## Listar Service Accounts existentes en un proyecto
 
@@ -95,8 +123,6 @@ Comando:
 
         gcloud iam service-accounts list 
 
-
-<img src="images/serviceaccounts.gif" align="center" width="900">
 
 El resultado es la lista de todas las cuentas de servicio en el proyecto:
 
@@ -111,6 +137,10 @@ El resultado es la lista de todas las cuentas de servicio en el proyecto:
 <img src="images/service_account.jpg">
 </p>
 
+<p align="center">
+  <img src="images/ServiceAccounts.gif" style="border-radius:20%" width="540">
+</p>
+
 
 * ### **REFERENCIAS**
 
@@ -118,10 +148,6 @@ El resultado es la lista de todas las cuentas de servicio en el proyecto:
 - Service Accounts [Como listar cuentas de servicio](https://cloud.google.com/iam/docs/creating-managing-service-accounts?hl=es-419#listing).
 - Direcciones IP  [Como listar direcciones IP's](https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list).
 - VPCs Compartidas [Como listar VPCs compartidas](https://cloud.google.com/sdk/gcloud/reference/compute/shared-vpc/associated-projects/list).
-
-
-
-
 
 
 

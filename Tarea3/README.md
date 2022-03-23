@@ -4,7 +4,7 @@
 En primer lugar sera importante saber como abrir la terminal de google cloud para poder trabajar con los difentes comandos que mostraremos a continuación.
 
 <video width="520" height="440" controls>
-  <source src="images/abrirCLI.mp4" type="video/mp4">
+  <source src="images/Instances.mp4" type="video/mp4">
 </video>
 
 

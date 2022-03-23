@@ -29,6 +29,21 @@ De forma predeterminada, se enumeran las direcciones globales y las direcciones 
 
 <img src="images/IPsGCP.PNG" align="center" width="900">
 
+Para enumerar los URI de todas las direcciones en un proyecto, ejecute:
+```
+gcloud compute addresses list --uri
+```
+
+Para enumerar todas las direcciones globales en un proyecto, ejecute:
+```
+gcloud compute addresses list --global
+```
+
+Para enumerar todas las direcciones de la us-central1región, ejecute:
+```
+gcloud compute addresses list --filter=region:us-central1
+```
+
 * ## Listar Buckets disponibles
 <br>
 

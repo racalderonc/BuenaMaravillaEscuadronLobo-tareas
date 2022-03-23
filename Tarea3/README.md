@@ -151,6 +151,7 @@ gsutil ls
 
 Ejecuta el comando `gcloud iam service-accounts list` para enumerar todas las cuentas de servicio de un proyecto.
 
+<div align = "center">
 Comando:
 
         gcloud iam service-accounts list 
@@ -166,6 +167,7 @@ El resultado es la lista de todas las cuentas de servicio en el proyecto:
 
 <img src="images/service_account.jpg" align = "center" width= "540"> 
 
+</div>
 
 <br>
 <br>

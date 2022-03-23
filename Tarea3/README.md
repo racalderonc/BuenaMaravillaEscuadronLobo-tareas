@@ -60,7 +60,7 @@ gcloud compute shared-vpc associated-projects list host-project
 ```
 **Ejemplo**
 
-<img src="images/vpcs2.PNG" align="center" width="900">
+<img src="images/vpc2.PNG" align="center" width="900">
 
 * ## Listar Buckets disponibles
 <br>

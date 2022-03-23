@@ -165,8 +165,8 @@ El resultado es la lista de todas las cuentas de servicio en el proyecto:
 
 <img src="images/service_account.jpg" align = "right">
 
-</br>
-</br>
+<p></p>
+<p></p>
 
 
 <p align="center">

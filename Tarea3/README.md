@@ -9,7 +9,7 @@ Antes de saber exactamente qué es Google Cloud Platform, es importante comprend
 En pocas palabras, podemos definir la computación en la nube como la posibilidad de almacenar datos de forma remota, es decir, en la nube.
 </p>
 
-<img src="images/googlecloud.png" align="left" width="240" height="240" >
+<img src="images/googlecloud.png" align="left" width="240" height="200" >
 
 <p>
 Esta evolución tecnológica permite que diferentes sectores compartan información sin necesidad de software o sistema de almacenamiento de datos.
@@ -29,6 +29,15 @@ La comunicación también se beneficia de la informática. Con esta tecnología,
 
 </div>
 
+* ## Abrir Google Cloud CLI
+En primer lugar sera importante saber como abrir la terminal de google cloud para poder trabajar con los difentes comandos que mostraremos a continuación.
+
+<p align="center">
+  <img src="images/abrirCLI.gif" style="border-radius:20%" width="540">
+</p>
+
+
+
 * ## Ubicarse en el Proyecto
 
 Para ubicarnos en el proyecto en cual deseamos trabajar es necesario utilizar el siguiente comando para indicar que se debe trabajar en el proyecto en especifico.
@@ -41,12 +50,6 @@ gcloud config set project myProject
   <img src="images/Colocarse_en_proyecto.gif" style="border-radius:20%" width="540">
 </p>
 
-* ## Abrir Google Cloud CLI
-En primer lugar sera importante saber como abrir la terminal de google cloud para poder trabajar con los difentes comandos que mostraremos a continuación.
-
-<p align="center">
-  <img src="images/abrirCLI.gif" style="border-radius:20%" width="540">
-</p>
 
 * ## Listar Compute Engine
 <br>
@@ -93,11 +96,6 @@ De forma predeterminada, se enumeran las direcciones globales y las direcciones 
 
 **Ejemplo**
 
-<p align="center">
-<img src="images/IPsGCP.PNG" align="center" width="900">
-</p>
-
->>>>>>> 5d1a29ca315f4e1d37d16edbe5d45ecec5fc1bff
 Para enumerar los URI de todas las direcciones en un proyecto, ejecute:
 ```
 gcloud compute addresses list --uri
@@ -112,6 +110,15 @@ Para enumerar todas las direcciones de la us-central1región, ejecute:
 ```
 gcloud compute addresses list --filter=region:us-central1
 ```
+<p align="center">
+<img src="images/IPsGCP.PNG" align="center" width="900">
+</p>
+
+<p align="center">
+<img src="images/addresses.gif" align="center" width="900">
+</p>
+
+
 
 * ## Listar VPCs que están siendo compartidas desde el proyecto origen
 <br>
@@ -173,8 +180,7 @@ El resultado es la lista de todas las cuentas de servicio en el proyecto:
 
 
 * ### **REFERENCIAS**
-- Colocarse en el proyecto a trabajar[Configurar el Proyecto a trabajar](https://cloud.google.com/sdk/gcloud/reference/config/set)
-- Listar
+- Colocarse en el proyecto a trabajar [Configurar el Proyecto a trabajar](https://cloud.google.com/sdk/gcloud/reference/config/set)
 - Compute Engine [Como listar compute Engine](https://cloud.google.com/sdk/gcloud/reference/compute/instances/list).
 - Service Accounts [Como listar cuentas de servicio](https://cloud.google.com/iam/docs/creating-managing-service-accounts?hl=es-419#listing).
 - Direcciones IP  [Como listar direcciones IP's](https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list).

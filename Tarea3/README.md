@@ -16,18 +16,36 @@ gcloud compute instances list --uri
 <img src="images/list-compute-engine-uri.png" align="center" width="900">
 
 * ## Listar IP's en uso, existentes o reservadas
+<<<<<<< HEAD
 To list all IP's in use, existing or reserved, run:
 ```
 gcloud compute addresses list
 ```
+=======
+<br>
+
+Lista de direcciones de cálculo de gcloud - lista de direcciones.
+```
+gcloud compute addresses list   
+```
+Enumera la información resumida de las direcciones en un proyecto. La --uri opción se puede utilizar para mostrar URI en su lugar. Los usuarios que deseen ver más datos deben utilizar gcloud compute addresses describe.
+De forma predeterminada, se enumeran las direcciones globales y las direcciones de todas las regiones. Los resultados se pueden acotar proporcionando el indicador --regionso .--global
+
+**Ejemplo**
+
+<img src="images/IPsGCP.PNG" align="center" width="900">
+>>>>>>> 5d1a29ca315f4e1d37d16edbe5d45ecec5fc1bff
 
 * ## Listar Buckets disponibles
 <br>
 
-To list the bucket's of a project, run:
+Para enumerar los bucket's de un proyecto, ejecute:
 ```
 gsutil ls   
 ```
+**Ejemplo**
+
+<img src="images/BucketGCP.PNG" align="center" width="900">
 
 * ## Listar Service Accounts existentes en un proyecto
 
@@ -56,6 +74,7 @@ El resultado es la lista de todas las cuentas de servicio en el proyecto:
 
 - Compute Engine [Como listar compute Engine](https://cloud.google.com/sdk/gcloud/reference/compute/instances/list).
 - Service Accounts [Como listar cuentas de servicio](https://cloud.google.com/iam/docs/creating-managing-service-accounts?hl=es-419#listing).
+- Direcciones IP  [Como listar direcciones IP's](https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list).
 
 
 

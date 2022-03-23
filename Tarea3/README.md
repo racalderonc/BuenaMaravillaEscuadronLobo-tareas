@@ -163,7 +163,7 @@ El resultado es la lista de todas las cuentas de servicio en el proyecto:
 | *SA_DISPLAY_NAME_1* | *SA_NAME_1*@*PROJECT_ID*.iam.gserviceaccount.com |
 | *SA_DISPLAY_NAME_2* | *SA_NAME_2*@*PROJECT_ID*.iam.gserviceaccount.com |
 
-<img src="images/service_account.jpg" align = "right">
+<img src="images/service_account.jpg" align = "right" width= "340"> 
 
 <br>
 <br>

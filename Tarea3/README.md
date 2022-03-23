@@ -24,6 +24,7 @@ To list the bucket's of a project, run:
 ```
 gsutil ls   
 ```
+**Ejemplo**
 <img src="images/BucketGCP.PNG" align="center" width="900">
 
 * ## Listar Service Accounts existentes en un proyecto

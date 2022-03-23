@@ -18,6 +18,12 @@ gcloud compute instances list --uri
 * ## Listar IP's en uso, existentes o reservadas
 
 * ## Listar Buckets disponibles
+<br>
+
+To list the bucket's of a project, run:
+```
+gsutil ls   
+```
 
 * ## Listar Service Accounts existentes en un proyecto
 

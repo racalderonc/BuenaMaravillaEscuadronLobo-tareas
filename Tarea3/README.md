@@ -54,6 +54,8 @@ gcloud compute addresses list --filter=region:us-central1
 * ## Listar VPCs que están siendo compartidas desde el proyecto origen
 <br>
 
+Listar VPCs que están siendo compartidas desde el proyecto origen, ejecute:
+``
 gcloud compute shared-vpc associated-projects list host-project
 
 **Ejemplo**

@@ -54,6 +54,10 @@ gcloud compute addresses list --filter=region:us-central1
 * ## Listar VPCs que están siendo compartidas desde el proyecto origen
 <br>
 
+**Ejemplo**
+
+<img src="images/vpcs.PNG" align="center" width="900">
+
 * ## Listar Buckets disponibles
 <br>
 

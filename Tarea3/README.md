@@ -29,12 +29,27 @@ Lista de direcciones de cálculo de gcloud - lista de direcciones.
 gcloud compute addresses list   
 ```
 Enumera la información resumida de las direcciones en un proyecto. La --uri opción se puede utilizar para mostrar URI en su lugar. Los usuarios que deseen ver más datos deben utilizar gcloud compute addresses describe.
-De forma predeterminada, se enumeran las direcciones globales y las direcciones de todas las regiones. Los resultados se pueden acotar proporcionando el indicador --regionso .--global
+De forma predeterminada, se enumeran las direcciones globales y las direcciones de todas las regiones. Los resultados se pueden acotar proporcionando el indicador --regions o .--global
 
 **Ejemplo**
 
 <img src="images/IPsGCP.PNG" align="center" width="900">
 >>>>>>> 5d1a29ca315f4e1d37d16edbe5d45ecec5fc1bff
+
+Para enumerar los URI de todas las direcciones en un proyecto, ejecute:
+```
+gcloud compute addresses list --uri
+```
+
+Para enumerar todas las direcciones globales en un proyecto, ejecute:
+```
+gcloud compute addresses list --global
+```
+
+Para enumerar todas las direcciones de la us-central1región, ejecute:
+```
+gcloud compute addresses list --filter=region:us-central1
+```
 
 * ## Listar Buckets disponibles
 <br>

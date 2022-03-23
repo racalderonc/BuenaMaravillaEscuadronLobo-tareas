@@ -3,7 +3,7 @@
 * ## ABRIR Google Cloud CLI
 En primer lugar sera importante saber como abrir la terminal de google cloud para poder trabajar con los difentes comandos que mostraremos a continuación.
 <p align="center">
-<video src='images/abrirCLI.mp4' width="500"/>
+https://github.com/racalderonc/BuenaMaravillaEscuadronLobo-tareas/blob/main/Tarea3/images/abrirCLI.mp4
 </p>
 
 * ## COLOCARSE EN EL PROYECTO CORRESPONDIENTE

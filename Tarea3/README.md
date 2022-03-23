@@ -20,7 +20,7 @@ gcloud compute instances list --uri
 * ## Listar Buckets disponibles
 <br>
 
-To list the bucket's of a project, run:
+Para enumerar los bucket's de un proyecto, ejecute:
 ```
 gsutil ls   
 ```

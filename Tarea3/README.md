@@ -150,7 +150,7 @@ gsutil ls
 * ## Listar Service Accounts existentes en un proyecto
 
 Ejecuta el comando `gcloud iam service-accounts list` para enumerar todas las cuentas de servicio de un proyecto.
-<div align="center">
+
 Comando:
 
         gcloud iam service-accounts list 
@@ -164,8 +164,8 @@ El resultado es la lista de todas las cuentas de servicio en el proyecto:
 | *SA_DISPLAY_NAME_2* | *SA_NAME_2*@*PROJECT_ID*.iam.gserviceaccount.com |
 
 
-<img src="images/service_account.jpg" align = "right" width= "540"> 
-</div>
+<img src="images/service_account.jpg" align = "center" width= "540"> 
+
 
 <br>
 <br>

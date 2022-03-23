@@ -157,18 +157,16 @@ Comando:
 
 
 El resultado es la lista de todas las cuentas de servicio en el proyecto:
-<p align="center">
+
 | NAME | EMAIL |
 | --- | --- |
 | *SA_DISPLAY_NAME_1* | *SA_NAME_1*@*PROJECT_ID*.iam.gserviceaccount.com |
 | *SA_DISPLAY_NAME_2* | *SA_NAME_2*@*PROJECT_ID*.iam.gserviceaccount.com |
-</p>
 
-**Ejemplo**
+<img src="images/service_account.jpg" align = "right">
 
-<p align="center">
-<img src="images/service_account.jpg">
-</p>
+
+
 
 <p align="center">
   <img src="images/ServiceAccounts.gif" style="border-radius:20%" width="540">

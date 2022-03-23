@@ -79,12 +79,7 @@ gcloud compute instances list --uri
 </p>
 
 * ## Listar IP's en uso, existentes o reservadas
-<<<<<<< HEAD
-To list all IP's in use, existing or reserved, run:
-```
-gcloud compute addresses list
-```
-=======
+
 <br>
 
 Lista de direcciones de cálculo de gcloud - lista de direcciones.
@@ -162,11 +157,12 @@ Comando:
 
 
 El resultado es la lista de todas las cuentas de servicio en el proyecto:
-
+<p align="center">
 | NAME | EMAIL |
 | --- | --- |
 | *SA_DISPLAY_NAME_1* | *SA_NAME_1*@*PROJECT_ID*.iam.gserviceaccount.com |
 | *SA_DISPLAY_NAME_2* | *SA_NAME_2*@*PROJECT_ID*.iam.gserviceaccount.com |
+</p>
 
 **Ejemplo**
 
@@ -185,8 +181,8 @@ El resultado es la lista de todas las cuentas de servicio en el proyecto:
 - Service Accounts [Como listar cuentas de servicio](https://cloud.google.com/iam/docs/creating-managing-service-accounts?hl=es-419#listing).
 - Direcciones IP  [Como listar direcciones IP's](https://cloud.google.com/sdk/gcloud/reference/compute/addresses/list).
 - VPCs Compartidas [Como listar VPCs compartidas](https://cloud.google.com/sdk/gcloud/reference/compute/shared-vpc/associated-projects/list).
-- Listar Buckets Opción 1[Como listar los Buckets](https://cloud.google.com/storage/docs/listing-buckets#cli-list-buckets)
-- Listar Buckets Opción 2[Como listar los Buckets](https://cloud.google.com/storage/docs/gsutil/commands/ls)
+- Listar Buckets Opción 1 [Como listar los Buckets](https://cloud.google.com/storage/docs/listing-buckets#cli-list-buckets)
+- Listar Buckets Opción 2 [Como listar los Buckets](https://cloud.google.com/storage/docs/gsutil/commands/ls)
 
 
 

@@ -9,8 +9,7 @@ Antes de saber exactamente qué es Google Cloud Platform, es importante comprend
 En pocas palabras, podemos definir la computación en la nube como la posibilidad de almacenar datos de forma remota, es decir, en la nube.
 </p>
 
-<img src="images/googlecloud.png" align="left" 
-        alt="Rey de Ajedrez" width="120" height="178">
+<img src="images/googlecloud.png" align="left" >
 
 <p>
 Esta evolución tecnológica permite que diferentes sectores compartan información sin necesidad de software o sistema de almacenamiento de datos.
@@ -18,6 +17,17 @@ Esta evolución tecnológica permite que diferentes sectores compartan informaci
 La comunicación también se beneficia de la informática. Con esta tecnología, la empresa también es capaz de facilitar la comunicación vertical y horizontal, reduciendo errores en la interpretación de datos y agilizando la toma de decisiones. Además, por supuesto, de generar más independencia para los empleados que trabajan de forma remota.
 </p>
 
+* ## Ubicarse en el Proyecto
+
+Para ubicarnos en el proyecto en cual deseamos trabajar es necesario utilizar el siguiente comando para indicar que se debe trabajar en el proyecto en especifico.
+
+```
+gcloud config set project myProject
+```
+
+<p align="center">
+  <img src="images/Colocarse_en_proyecto.gif" style="border-radius:20%" width="540">
+</p>
 
 * ## ABRIR Google Cloud CLI
 En primer lugar sera importante saber como abrir la terminal de google cloud para poder trabajar con los difentes comandos que mostraremos a continuación.
@@ -33,7 +43,9 @@ To list all instances in a project in table form, run:
 ```
 gcloud compute instances list
 ```
+<p align="center">
 <img src="images/list-compute-engine.png" align="center" width="900">
+</p>
 
 <p align="center">
   <img src="images/Instances.gif" style="border-radius:20%" width="540">
@@ -44,8 +56,9 @@ To list the URIs of all instances in a project, run:
 ```
 gcloud compute instances list --uri
 ```
+<p align="center">
 <img src="images/list-compute-engine-uri.png" align="center" width="900">
-
+</p>
 <p align="center">
   <img src="images/instances-uri.gif" style="border-radius:20%" width="540">
 </p>

@@ -4,22 +4,27 @@
 
 ## Luis Alfredo Bautista Posadas
 
-- Shared VPC
-- VPC Serverless Connector
-- Private Service Connect
-- Add Subnet in VPC
-- Add Secondary ip ranges
-- Reserve External IP Address
-- Load Balancer Service
-- Create VPC
-- VPC Network Peering
+<table>
+<tr><td>- Shared VPC </tr></td>
+</tr></td>- VPC Serverless Connector</tr></td>
+</tr></td>- Private Service Connect</tr></td>
+</tr></td>- Add Subnet in VPC</tr></td>
+</tr></td>- Add Secondary ip ranges</tr></td>
+</tr></td>- Reserve External IP Address</tr></td>
+</tr></td>- Load Balancer Service</tr></td>
+</tr></td>- Create VPC</tr></td>
+</tr></td>- VPC Network Peering</tr></td>
+<table>
 
 ## Jesus Enrique Guzmán Cázares
-- Creación de Grupos
-- Asigación de Permisos a Grupos
-- Creación de SA
-- Creación de JSON
-- Asignación de grupos a usuarios
+
+<table>
+<tr><td>- Creación de Grupos </tr></td>
+<tr><td>- Asigación de Permisos a Grupos </tr></td>
+<tr><td>- Creación de SA </tr></td>
+<tr><td>- Creación de JSON </tr></td>
+<tr><td>- Asignación de grupos a usuarios </tr></td>
+</table>
 
 
 ## Calderón Corona Rubén Alejandro

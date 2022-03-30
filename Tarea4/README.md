@@ -22,22 +22,9 @@
 - Asignación de grupos a usuarios
 
 
-<<<<<<< HEAD
-## María Elena Coronado Rodríguez
-<p> Lista de procesos Infra - Middleware: </p>
-<table class="default">
-    <tr> <td> Replica de assets hacia akamai </td> </tr>
-    <tr> <td> Deploy de NodeJS Mi Crédito Liverpool </td> </tr>
-    <tr> <td> Deploy de NodeJS Mi Crédito Suburbia </td> </tr>                          
-    <tr> <td> Deploy de NodeJS Fecha Estimada de Entrega </td> </tr>
-    <tr> <td> Aplicación de Layering ATG BackEnd </td> </tr>
-    <tr> <td> Configuración de ATG cuando nos entregan nuevos equipos </td> </tr>
-</table>
-=======
 ## Calderón Corona Rubén Alejandro
  - Compartir Vistas a diferentes usuarios dentro del IAM
  - Verificar queries más costos de Big Query
  - Autoescalar Kubernetes
  - Generación de reportes semanales
  - Tomar snapshots incrementales de attached disks
->>>>>>> c57d158781366f5feaecc0f085283f6b796850cf

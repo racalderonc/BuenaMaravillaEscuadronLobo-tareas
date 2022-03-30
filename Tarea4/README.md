@@ -20,3 +20,11 @@
 - Creación de SA
 - Creación de JSON
 - Asignación de grupos a usuarios
+
+
+## Calderón Corona Rubén Alejandro
+ - Compartir Vistas a diferentes usuarios dentro del IAM
+ - Verificar queries más costos de Big Query
+ - Autoescalar Kubernetes
+ - Generación de reportes semanales
+ - Tomar snapshots incrementales de attached disks

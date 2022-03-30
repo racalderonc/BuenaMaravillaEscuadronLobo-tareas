@@ -23,18 +23,22 @@
 
 
 ## Calderón Corona Rubén Alejandro
- - Compartir Vistas a diferentes usuarios dentro del IAM
- - Verificar queries más costos de Big Query
- - Autoescalar Kubernetes
- - Generación de reportes semanales
- - Tomar snapshots incrementales de attached disks
- - Aumentar el tamaño de instancias de Compute Engine cuando se requiera
- - Reducir el tamaño de instancias de Compute Engine cuando se requiera
- - Asignación de permisos a service accounts, grupos y cuentas de email,
- - Replicación de proyectos para los diferentes ambientes, desarrollo, QAS y productivo.
- - Obtención de logs con algun tipo de filtro
- - Eliminación de elementos sin uso 
- - Creación de Load Balancers
+<p> Lista de procesos Infra - GCP PaaS Saas
+<table>
+ <tr><td>- Compartir Vistas a diferentes usuarios dentro del IAM </tr></td>
+ <tr><td>- Verificar queries más costos de Big Query </tr></td>
+ <tr><td>- Autoescalar Kubernetes </tr></td>
+ <tr><td>- Generación de reportes semanales </tr></td>
+ <tr><td>- Tomar snapshots incrementales de attached disks </tr></td>
+ <tr><td>- Aumentar el tamaño de instancias de Compute Engine cuando se requiera </tr></td>
+ <tr><td>- Reducir el tamaño de instancias de Compute Engine cuando se requiera </tr></td>
+ <tr><td>- Asignación de permisos a service accounts, grupos y cuentas de email </tr></td>
+ <tr><td>- Replicación de proyectos para los diferentes ambientes, desarrollo, QAS y <tr><td>productivo. </tr></td>
+ <tr><td>- Obtención de logs con algun tipo de filtro </tr></td>
+ <tr><td>- Eliminación de elementos sin uso </tr></td>
+ <tr><td>- Creación de Load Balancers </tr></td>
+
+</table>
 
 ## María Elena Coronaro Rodríguez
 <p> Lista de procesos Infra - Middleware: </p>

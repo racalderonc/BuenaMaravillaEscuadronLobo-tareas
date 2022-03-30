@@ -6,14 +6,14 @@
 
 <table>
 <tr><td>- Shared VPC </tr></td>
-</tr></td>- VPC Serverless Connector</tr></td>
-</tr></td>- Private Service Connect</tr></td>
-</tr></td>- Add Subnet in VPC</tr></td>
-</tr></td>- Add Secondary ip ranges</tr></td>
-</tr></td>- Reserve External IP Address</tr></td>
-</tr></td>- Load Balancer Service</tr></td>
-</tr></td>- Create VPC</tr></td>
-</tr></td>- VPC Network Peering</tr></td>
+<tr><td>- VPC Serverless Connector</tr></td>
+<tr><td>- Private Service Connect</tr></td>
+<tr><td>- Add Subnet in VPC</tr></td>
+<tr><td>- Add Secondary ip ranges</tr></td>
+<tr><td>- Reserve External IP Address</tr></td>
+<tr><td>- Load Balancer Service</tr></td>
+<tr><td>- Create VPC</tr></td>
+<tr><td>- VPC Network Peering</tr></td>
 </table>
 
 ## Jesus Enrique Guzmán Cázares

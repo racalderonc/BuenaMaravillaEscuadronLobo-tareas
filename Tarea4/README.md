@@ -30,8 +30,9 @@
  - Tomar snapshots incrementales de attached disks
  - Aumentar el tamaño de instancias de Compute Engine cuando se requiera
  - Reducir el tamaño de instancias de Compute Engine cuando se requiera
- - 
- -
- -
- -
+ - Asignación de permisos a service accounts, grupos y cuentas de email,
+ - Replicación de proyectos para los diferentes ambientes, desarrollo, QAS y productivo.
+ - Obtención de logs con algun tipo de filtro
+ - Eliminación de elementos sin uso 
+ - Creación de Load Balancers
 

@@ -1,8 +1,8 @@
 <font face="Arial">
-  <h1 align="center"><i>Tarea 4</i></h1>
+  <h1 align="center"><b>Tarea 4</b></h1>
 </font>
 
-### Luis Alfredo Bautista Posadas
+## Luis Alfredo Bautista Posadas
 
 - **Shared VPC**
 - **VPC Serverless Connector**

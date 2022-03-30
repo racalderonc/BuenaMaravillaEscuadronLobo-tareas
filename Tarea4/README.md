@@ -4,8 +4,8 @@
 
 ## Luis Alfredo Bautista Posadas
 
-- **Shared VPC**
-- **VPC Serverless Connector**
+- Shared VPC
+- VPC Serverless Connector
 - **Private Service Connect**
 - **Add Subnet in VPC**
 - **Add Secondary ip ranges**

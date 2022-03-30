@@ -13,3 +13,10 @@
 - Load Balancer Service
 - Create VPC
 - VPC Network Peering
+
+## Jesus Enrique Guzmán Cázares
+- Creación de Grupos
+- Asigación de Permisos a Grupos
+- Creación de SA
+- Creación de JSON
+- Asignación de grupos a usuarios

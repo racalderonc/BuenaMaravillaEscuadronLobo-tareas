@@ -23,7 +23,7 @@
 
 
 <<<<<<< HEAD
-## María Elena Coronaro Rodríguez
+## María Elena Coronado Rodríguez
 <p> Lista de procesos Infra - Middleware: </p>
 <table class="default">
     <tr> <td> Replica de assets hacia akamai </td> </tr>

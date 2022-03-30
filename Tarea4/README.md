@@ -6,10 +6,10 @@
 
 - Shared VPC
 - VPC Serverless Connector
-- **Private Service Connect**
-- **Add Subnet in VPC**
-- **Add Secondary ip ranges**
-- **Reserve External IP Address**
-- **Load Balancer Service**
-- **Create VPC**
-- **VPC Network Peering**
+- Private Service Connect
+- Add Subnet in VPC
+- Add Secondary ip ranges
+- Reserve External IP Address
+- Load Balancer Service
+- Create VPC
+- VPC Network Peering

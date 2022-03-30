@@ -20,3 +20,15 @@
 - Creación de SA
 - Creación de JSON
 - Asignación de grupos a usuarios
+
+
+## María Elena Coronaro Rodríguez
+<p> Lista de procesos Infra - Middleware: </p>
+<table class="default">
+    <tr> <td> Replica de assets hacia akamai </td> </tr>
+    <tr> <td> Deploy de NodeJS Mi Crédito Liverpool </td> </tr>
+    <tr> <td> Deploy de NodeJS Mi Crédito Suburbia </td> </tr>                          
+    <tr> <td> Deploy de NodeJS Fecha Estimada de Entrega </td> </tr>
+    <tr> <td> Aplicación de Layering ATG BackEnd </td> </tr>
+    <tr> <td> Configuración de ATG cuando nos entregan nuevos equipos </td> </tr>
+</table>

@@ -33,10 +33,15 @@
  <tr><td>- Aumentar el tamaño de instancias de Compute Engine cuando se requiera </tr></td>
  <tr><td>- Reducir el tamaño de instancias de Compute Engine cuando se requiera </tr></td>
  <tr><td>- Asignación de permisos a service accounts, grupos y cuentas de email </tr></td>
- <tr><td>- Replicación de proyectos para los diferentes ambientes, desarrollo, QAS y <tr><td>productivo. </tr></td>
- <tr><td>- Obtención de logs con algun tipo de filtro </tr></td>
- <tr><td>- Eliminación de elementos sin uso </tr></td>
+ <tr><td>- Replicación de recursos para proyectos para los diferentes ambientes, desarrollo, QAS y <tr><td>productivo. </tr></td>
+ <tr><td>- Obtención de logs con filtro de busqueda</tr></td>
+ <tr><td>- Eliminación de elementos recursos sin </tr></td>
  <tr><td>- Creación de Load Balancers </tr></td>
+ <tr><td>- Monitoreo de los recursos más importantes</tr></td>
+ <tr><td>- Creación de instancias SQL</tr></td>
+ <tr><td>- Generación de recomendaciones sobre los consumos</tr></td>
+
+
 
 </table>
 
@@ -54,4 +59,5 @@
     <tr> <td> Flush de cache, EA, AA y akamai </td> </tr>
     <tr> <td> Deploys de ATG Backend </td> </tr>
     <tr> <td> Depuración de logs de eCommerce </td> </tr>
+
 </table>

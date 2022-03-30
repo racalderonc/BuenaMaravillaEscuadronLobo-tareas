@@ -28,3 +28,10 @@
  - Autoescalar Kubernetes
  - Generación de reportes semanales
  - Tomar snapshots incrementales de attached disks
+ - Aumentar el tamaño de instancias de Compute Engine cuando se requiera
+ - Reducir el tamaño de instancias de Compute Engine cuando se requiera
+ - 
+ -
+ -
+ -
+

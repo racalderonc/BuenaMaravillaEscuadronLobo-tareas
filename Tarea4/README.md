@@ -14,7 +14,7 @@
 </tr></td>- Load Balancer Service</tr></td>
 </tr></td>- Create VPC</tr></td>
 </tr></td>- VPC Network Peering</tr></td>
-<table>
+</table>
 
 ## Jesus Enrique Guzmán Cázares
 
